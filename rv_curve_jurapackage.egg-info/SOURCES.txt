@@ -1,0 +1,8 @@
+setup.py
+rv_curve_jurapackage/__init__.py
+rv_curve_jurapackage/rv_curve_module.py
+rv_curve_jurapackage.egg-info/PKG-INFO
+rv_curve_jurapackage.egg-info/SOURCES.txt
+rv_curve_jurapackage.egg-info/dependency_links.txt
+rv_curve_jurapackage.egg-info/requires.txt
+rv_curve_jurapackage.egg-info/top_level.txt
